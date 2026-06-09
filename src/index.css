@@ -2,6 +2,9 @@
 @import "highlight.js/styles/github.css" layer(base);
 @import "katex/dist/katex.min.css";
 
+/* Tailwind v4: enable class-based dark mode */
+@variant dark (&:is(.dark *));
+
 @layer base {
   :root {
     color-scheme: light dark;
