@@ -227,10 +227,10 @@ O toggle "Lembrar nesta aba" usa `sessionStorage` — a chave persiste enquanto 
 
 ### O software
 
-> BARROS, Álvaro. **Estudante Centauro** [software]. 2025. Disponível em: https://github.com/profalvarobarros/app-estudante-centauro
+> BARROS, Alvaro. **Estudante Centauro** [software]. 2025. Disponível em: https://github.com/profalvarobarros/app-estudante-centauro
 
 ---
 
 ## Licença
 
-[MIT](LICENSE) © Álvaro Barros
+[MIT](LICENSE) © Alvaro Barros
