@@ -4,7 +4,7 @@
 
 [![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-blue)](https://profalvarobarros.github.io/app-estudante-centauro/)
 [![Licença](https://img.shields.io/badge/licença-MIT-green)](LICENSE)
-[![DOI](https://zenodo.org/badge/1263398800.svg)](https://doi.org/10.5281/zenodo.20706237)
+[![DOI](https://zenodo.org/badge/1263398800.svg)](https://doi.org/10.5281/zenodo.20706237) 
 
 ---
 
