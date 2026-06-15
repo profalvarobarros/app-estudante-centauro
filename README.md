@@ -223,7 +223,7 @@ O toggle "Lembrar nesta aba" usa `sessionStorage` — a chave persiste enquanto 
 
 ### O artigo
 
-> BARROS, Álvaro. **[Título do artigo]**. [Periódico], [ano]. [DOI]
+> BARROS, Alvaro. **[Título do artigo]**. [Periódico], [ano]. [DOI]
 
 ### O software
 
